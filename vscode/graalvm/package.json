@@ -305,7 +305,7 @@
 		"postinstall": "node ./node_modules/vscode/bin/install"
 	},
 	"dependencies": {
-		"tar": "^4.4.8",
+		"tar": "^4.4.15",
 		"vscode-chrome-debug-core": "^6.7.53"
 	},
 	"devDependencies": {
