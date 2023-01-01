@@ -85,12 +85,12 @@
 	"devDependencies": {
 		"@types/mocha": "^2.2.42",
 		"@types/node": "^8.10.51",
-		"ts-loader": "^6.0.4",
+		"ts-loader": "^9.4.2",
 		"tslint": "^5.18.0",
 		"typescript": "^3.5.3",
 		"vscode": "^1.1.36",
-		"webpack": "^4.39.1",
-		"webpack-cli": "^3.3.6"
+		"webpack": "^5.75.0",
+		"webpack-cli": "^5.0.1"
 	},
 	"extensionDependencies": [
 		"OracleLabs.graalvm",
