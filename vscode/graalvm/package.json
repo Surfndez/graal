@@ -305,7 +305,7 @@
 		"postinstall": "node ./node_modules/vscode/bin/install"
 	},
 	"dependencies": {
-		"tar": "^4.4.8",
+		"tar": "^7.5.11",
 		"vscode-chrome-debug-core": "^6.7.53"
 	},
 	"devDependencies": {
@@ -315,8 +315,8 @@
 		"ts-loader": "^6.0.2",
 		"tslint": "^5.8.0",
 		"typescript": "^3.1.4",
-		"vscode": "^1.1.30",
-		"webpack": "^4.39.1",
-		"webpack-cli": "^3.3.6"
+		"vscode": "^1.1.37",
+		"webpack": "^5.106.2",
+		"webpack-cli": "^7.0.2"
 	}
 }
